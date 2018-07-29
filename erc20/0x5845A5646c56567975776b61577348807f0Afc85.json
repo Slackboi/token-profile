@@ -1,0 +1,23 @@
+{
+  "symbol": "JTE",
+  "address": "0x5845A5646c56567975776b61577348807f0Afc85",
+  "overview":{
+        "en": "JTEBIT Coin",
+        "zh": "jte吉泰币"
+  },
+  "email": "Email",
+  "website": "official.jtebit.com",
+  "whitepaper": "http://official.jtebit.com/whitepaper/jtewhitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-29",
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
